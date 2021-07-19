@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Karuakun</Authors>
+    <PackageProjectUrl>https://github.com/karuakun/serilog-enrichers-claim</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
